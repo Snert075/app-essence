@@ -1,5 +1,5 @@
 # app
-Application pour l'essence - The Anteurpraïs "Cétacrest"
+Application pour l'essence - Zy Anteurpraïs "Cétacrest"
 
 Bienvenue à toi jeune entrepreneur !
 Si t'es arrivé ici c'est que t'es interessé pour collaborer dans ce magnifique projet.
